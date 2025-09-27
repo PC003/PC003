@@ -39,9 +39,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&font=baloo&ext=contest)
 
----
-### 🔥 LeetCode Heatmap (Daily Activity)
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&ext=heatmap)
 
 
 
