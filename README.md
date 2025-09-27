@@ -35,8 +35,13 @@
 ---
 
 ### 💻 Competitive Programming
-#### 🏆 LeetCode
+### 🏆 LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&font=baloo&ext=contest)
+
+### 🔥 LeetCode Heatmap (Daily Streak-like Activity)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&ext=heatmap)
+
 
 #### ⚡ Codeforces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=piyushchavan003)
