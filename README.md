@@ -39,9 +39,14 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&font=baloo&ext=contest)
 
-### 🔥 LeetCode Heatmap (Daily Streak-like Activity)
+---
+### 🔥 LeetCode Heatmap (Daily Activity)
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Piyush_chavan003-?theme=dark&ext=heatmap)
 
+---
+### 🐍 Contribution Snake (fun animation)
+<!-- This SVG is generated automatically by a GitHub Action and stored at /output/github-contribution-grid-snake.svg -->
+![Contribution Snake](https://raw.githubusercontent.com/PC003/PC003/output/github-contribution-grid-sna
 
 #### ⚡ Codeforces
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=piyushchavan003)
