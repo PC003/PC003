@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Piyush
 
 - 🎯 I love DSA, Web Development, and Open Source
-- 🚀 Currently learning Backend Development (Express.js + MongoDB)
+- 🚀 Currently learning AI/ML
 - 🏆 Active in Competitive Programming on **LeetCode** & **Codeforces**
 - 💡 Exploring Cybersecurity & System Design
 - 💬 Ask me about **C++, Python, and Web Development**
