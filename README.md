@@ -4,7 +4,7 @@
 - 🚀 Currently learning AI/ML
 - 🏆 Active in Competitive Programming on **LeetCode** & **Codeforces**
 - 💡 Exploring Cybersecurity & System Design
-- 💬 Ask me about **C++, Python, and Web Development**
+- 💬 Ask me about **C++, Python, and Web Development,Machine Learning,AI**
 
 ---
 
