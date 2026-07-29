@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Piyush
 
-- 🎯 I love DSA, Web Development, and Open Source
+- 🎯 I love DSA, Data Science, and Open Source
 - 🚀 Currently learning AI/ML
 - 🏆 Active in Competitive Programming on **LeetCode** & **Codeforces**
 - 💡 Exploring AI/ML & System Design
